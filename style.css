@@ -21,17 +21,17 @@ header{
 }
 
 /* ===================MAIN=================== */
-.cardd:hover {
- cursor: pointer;
-background-color:#0E0A47;
-color: #fff;
+
+.cardd{
+    cursor: pointer;
+    color:#0E0A47 ;
 }
 .cardd:hover {
     cursor: pointer;
-    color:#0E0A47 ;
-background-color: #fff
-}
-  
+    background-color: #0E0A47;
+    color:#fff;
+
+   } 
 #solution{
     background-color: #E5EAFA;
     margin-top: 50px;
